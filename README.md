@@ -1,4 +1,4 @@
-# Customer Churn Prediction (Machine Learning Zoomcamp)
+# Customer Churn Prediction
 
 
 ## Problem Statement
