@@ -65,7 +65,6 @@ The final selected model demonstrates reliable predictive performance suitable f
 * End-to-end machine learning workflow for classification problems
 * Handling categorical features in real-world datasets
 * Importance of proper evaluation metrics like ROC-AUC
-* Basics of deploying ML models as APIs
 * Writing clean and reproducible ML code
 
 ---
