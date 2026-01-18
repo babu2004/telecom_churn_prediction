@@ -42,10 +42,6 @@ The overall approach followed in this project:
 
    * Accuracy
    * ROC-AUC score
-5. **Model Deployment**
-
-   * Exporting the trained model
-   * Serving predictions via a REST API
 
 ---
 
